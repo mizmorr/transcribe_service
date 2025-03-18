@@ -3,6 +3,7 @@ package business
 import (
 	"net/http"
 	"os"
+	"strings"
 
 	logger "github.com/mizmorr/loggerm"
 	"github.com/mizmorr/transcriber/internal/domain"
@@ -52,6 +53,15 @@ func (svc *Service) Process(filePath string, ch chan<- *domain.Response) {
 func (svc *Service) CleanUp(filePath string) {
 	if err := os.Remove(filePath); err != nil {
 		svc.log.Err(err).Msg("Got error while removing audiofile " + filePath)
+	}
+
+	wavFilePath := strings.Replace(filePath, ".mp3", "wav", 1)
+
+	if _, err := os.Stat(wavFilePath); err == nil {
+		err = os.Remove(wavFilePath)
+		if err != nil {
+			svc.log.Err(err).Msg("Got error while removing audiofile " + wavFilePath)
+		}
 	}
 
 }
