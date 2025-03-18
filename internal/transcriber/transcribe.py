@@ -30,7 +30,7 @@ except Exception as e:
 
 sample_rate = wf.getframerate()
 
-if sample_rate != 16000 and sample_rate != 8000:  # Пример для Vosk
+if sample_rate != 16000 and sample_rate != 8000:  
     print(f"Ошибка: Частота дискретизации {sample_rate} не поддерживается.")
     sys.exit(1)
 
@@ -47,10 +47,13 @@ while True:
     if len(data) == 0:
         break
     if recognizer.AcceptWaveform(data):
-        result_text += recognizer.Result()
+        result = json.loads(recognizer.Result())  
+        result_text += result.get("text", "") + " "  
 
-result_text += recognizer.FinalResult()
+# Добавляем финальный результат
+final_result = json.loads(recognizer.FinalResult())
+result_text += final_result.get("text", "")
 
-print(result_text)
+print(result_text.strip())
 
 wf.close()
