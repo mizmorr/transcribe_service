@@ -1,0 +1,215 @@
+18 Mar 25 03:29 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 03:29 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 03:29 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 03:34 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 03:34 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 03:34 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 03:34 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 03:36 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 03:36 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 03:36 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 03:36 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 03:37 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 03:37 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 03:40 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 03:40 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 03:41 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 03:41 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:22 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:31 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:31 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:33 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:33 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:33 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:34 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:34 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 13:38 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:38 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:39 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:39 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:39 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:39 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:40 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:40 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:43 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:43 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 13:43 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:43 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:43 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:43 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:43 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:44 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:44 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 13:44 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:44 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:47 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:47 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:47 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:48 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:48 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 13:48 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:48 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:48 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:49 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:49 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:52 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:52 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 13:52 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:52 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:57 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:57 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:57 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:58 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:58 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 13:58 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:58 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 13:58 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 13:59 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 13:59 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 14:02 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 14:02 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+18 Mar 25 14:08 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 14:08 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 14:17 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 22:54 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 22:54 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 23:01 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 23:01 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 23:01 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 23:03 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 23:27 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 23:27 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 23:28 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 23:28 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 23:28 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+18 Mar 25 23:28 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+18 Mar 25 23:42 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+18 Mar 25 23:42 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:13 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 00:14 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 00:14 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:15 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 00:15 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 00:15 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 00:15 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:15 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 00:19 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 00:19 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:19 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 00:19 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 00:23 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 00:23 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:24 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 00:24 MSK | [INFO] | /home/mizmor/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 00:33 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 00:33 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:34 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 00:35 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 00:35 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:35 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 00:36 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 00:36 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 00:42 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 01:37 MSK | [INFO] | /home/mizmor/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 01:37 MSK | [DEBUG] | /home/mizmor/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 01:37 MSK | [INFO] | /home/mizmor/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:17 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:17 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:19 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:19 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:22 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:22 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:22 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:22 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:22 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:24 MSK | [ERROR] | /home/mizmor/src/pkg/server/server.go:84 | Shutting down http-server failed 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:24 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:24 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:24 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:24 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:25 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:25 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:25 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:25 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:26 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:26 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:26 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:27 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:30 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:30 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:40 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:40 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:40 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:40 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:40 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:40 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:41 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:41 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:43 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:43 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:49 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:49 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:50 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:50 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:55 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:55 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 19:56 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 19:56 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 19:56 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 19:56 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 21:09 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 21:09 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 21:42 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 21:42 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 21:42 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 21:45 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 21:45 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 21:49 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 21:49 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 21:49 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 21:49 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 21:50 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 21:50 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 21:50 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 21:51 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 21:51 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 21:51 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 21:55 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 21:55 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 21:55 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 21:55 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 22:13 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:03 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:03 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 23:03 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:03 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 23:04 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:04 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 23:05 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:06 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:06 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 23:07 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:08 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:08 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 23:09 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:09 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 23:09 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:09 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 23:10 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:10 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:10 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 23:13 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:14 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:14 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+19 Mar 25 23:15 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+19 Mar 25 23:15 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 
+19 Mar 25 23:22 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+19 Mar 25 23:22 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+20 Mar 25 00:14 MSK | [ERROR] | /home/mizmor/src/internal/business/service.go:55 | Got error while removing audiofile ../internal/store/mix_13060_16e001__2023_01_02__09_49_49_767.mp3  error="remove ../internal/store/mix_13060_16e001__2023_01_02__09_49_49_767.mp3: no such file or directory"
