@@ -2,6 +2,8 @@ package app
 
 import (
 	"context"
+	"errors"
+	"os"
 	"sync"
 	"time"
 
@@ -24,7 +26,7 @@ type App struct {
 
 func New() *App {
 	return &App{
-		log: logger.Get("logs/app.log", "debug"),
+		log: logger.Get("app.log", "debug"),
 	}
 }
 
@@ -32,6 +34,10 @@ func (a *App) Start(ctx context.Context) error {
 
 	if _, ok := ctx.Value("logger").(*logger.Logger); !ok {
 		ctx = context.WithValue(ctx, "logger", a.log)
+	}
+
+	if err := a.systemCheck(); err != nil {
+		a.log.Err(err).Msg("Test")
 	}
 
 	stt := new(transcriber.Transcriber)
@@ -80,6 +86,13 @@ func (a *App) Stop(ctx context.Context) error {
 		if res != nil {
 			a.log.Debug().Msg(res.(string))
 		}
+	}
+	return nil
+}
+
+func (a *App) systemCheck() error {
+	if _, err := os.Stat("model_ru"); err != nil {
+		return errors.New("model not found")
 	}
 	return nil
 }

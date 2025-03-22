@@ -2,34 +2,38 @@
 FROM golang:1.24 AS builder
 
 WORKDIR /app
-COPY . .  
 
-ADD go.mod .
-ADD go.sum .
+COPY src/go.mod src/go.sum ./
 RUN go mod download
 
-RUN go build -o /cmd/app /cmd/main.go
+COPY src/ .
+
+RUN CGO_ENABLED=0 go build -ldflags="-s -w" -o app ./cmd/main.go 
 
 # === Этап 2: Установка Python-приложения ===
-FROM python:3.12-slim AS python_builder
-WORKDIR /app
-RUN pip install -r requirements.txt
 
-# === Этап 3: Финальный минимальный образ ===
 FROM debian:bullseye-slim
-
 # Копируем Go-бинарник 
-COPY --from=builder /cmd/app /usr/local/bin/app
 
-# === Копирование модели отдельным шагом для кеширования ===
-COPY cmd/model_ru/ /app/cmd/model_ru/
+WORKDIR /app
 
-# Установка Python для запуска скрипта
+COPY output.wav output.wav
+
+# Копируем только скомпилированный Go-бинарник
+COPY --from=builder /app/app ./app
+
+# Копируем только зависимости Python
+COPY src/requirements.txt ./requirements.txt
+
+COPY model_ru/ ./model_ru/
+
+COPY src/internal/transcriber/transcribe.py transcribe.py 
+
+
 RUN apt-get update && \
-    apt-get install -y python3 && \
+    apt-get install -y python3 python3-pip ffmpeg && \
+    pip3 install --no-cache-dir -r ./requirements.txt && \
     rm -rf /var/lib/apt/lists/*
 
-# Указываем рабочую директорию
-WORKDIR /app
-
-CMD ["/usr/local/bin/app"]
+# Запуск приложения
+CMD ["./app"]

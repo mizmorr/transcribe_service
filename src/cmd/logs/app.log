@@ -213,3 +213,7 @@
 19 Mar 25 23:22 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
 19 Mar 25 23:22 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
 20 Mar 25 00:14 MSK | [ERROR] | /home/mizmor/src/internal/business/service.go:55 | Got error while removing audiofile ../internal/store/mix_13060_16e001__2023_01_02__09_49_49_767.mp3  error="remove ../internal/store/mix_13060_16e001__2023_01_02__09_49_49_767.mp3: no such file or directory"
+22 Mar 25 01:49 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:40 | HTTP server is starting.. 
+22 Mar 25 01:49 MSK | [DEBUG] | /home/mizmor/src/pkg/server/server.go:52 | HTTP server keep-alive is running.. 
+22 Mar 25 01:50 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:76 | Stopping http-server... 
+22 Mar 25 01:50 MSK | [INFO] | /home/mizmor/src/pkg/server/server.go:60 | Keep alive http-worker is stopped correct 

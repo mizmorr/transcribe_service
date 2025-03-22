@@ -18,7 +18,7 @@ func (t *Transcriber) Transcribe(filePath string, resultChan chan<- string, errC
 		return
 	}
 
-	cmd := exec.Command("python", "../internal/transcriber/transcribe.py", filePath)
+	cmd := exec.Command("python3", "transcribe.py", filePath)
 
 	output, err := cmd.CombinedOutput()
 	if err != nil {

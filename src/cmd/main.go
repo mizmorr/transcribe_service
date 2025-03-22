@@ -2,8 +2,6 @@ package main
 
 import (
 	"context"
-	"fmt"
-	"net/http"
 	_ "net/http/pprof"
 	"os"
 	"os/signal"
@@ -20,13 +18,6 @@ func main() {
 }
 
 func execute() error {
-
-	go func() {
-		fmt.Println("Starting pprof on :6060")
-		if err := http.ListenAndServe(":6060", nil); err != nil {
-			fmt.Println("pprof error:", err)
-		}
-	}()
 
 	ctx := context.Background()
 
